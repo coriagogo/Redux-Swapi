@@ -8,7 +8,7 @@ import rootReducer from "./reducers";
 // needed dependancies
 import thunk from 'redux-thunk';
 import logger from 'redux-logger';
-import rootReducer from './reducers';
+
 // applyMiddleware from redux
 // thunk from redux-thunk
 // logger from redux-logger
